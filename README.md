@@ -1,9 +1,7 @@
 # fastAffinityPropogation
 Numpy Impl of Fast Affinity Propogation Clustering (FAP)
 
-
-This notebook contains an implementation of the Fast Affinity Propogation unsupervised clusering algorithm within numpy. I am currently working in a research lab doing data sciency things. We're considering using this algorithm and, to understand it better, I decided to implement it here from scratch.
-
+This notebook contains implementations of exemplar based clustering algorithms. I am currently working in a research lab doing data sciency things. We're considering using an algorithm called Fast Affinity Propogation and, to understand it better, I decided to implement it here from scratch in numpy. As well as some other exemplar based clustering algs.
 
 # Citation
 
