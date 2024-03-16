@@ -1,7 +1,15 @@
-# fastAffinityPropogation
-Numpy Impl of Fast Affinity Propogation Clustering (FAP)
+# Explorations of Clustering Algorithms
 
-This notebook contains implementations of exemplar based clustering algorithms. I am currently working in a research lab doing data sciency things. We're considering using an algorithm called Fast Affinity Propogation and, to understand it better, I decided to implement it here from scratch in numpy. As well as some other exemplar based clustering algs.
+This repository contains implementations of a few different clustering algorithms in numpy. The point here is mostly just to understand these algorithms, how they work and what differentiations them from each other. I am currently working in a research lab doing data sciency things. We're considering using the fast affinity propofation algorithm for our research.
+# Currently Implemented
+
+- Affinity Propogation
+- Spectral Clustering
+
+# Intended to Be Implemented
+
+- Fast Affinity Propogation
+
 
 # Citation
 
